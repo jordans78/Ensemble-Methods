@@ -58,3 +58,11 @@ with="50%" height="50%"/>
 </p>   
 
 
+<p aligh="center">
+<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Figure_2.png" 
+with="50%" height="50%"/> 
+</p>   
+
+
+
+
