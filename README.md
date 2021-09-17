@@ -58,7 +58,19 @@ with="50%" height="50%"/>
 </p>   
 
 
+<p aligh="center">
+<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Figure_10.png" 
+with="50%" height="50%"/> 
+</p>   
 
 
+<p aligh="center">
+<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Figure_11.png" 
+with="50%" height="50%"/> 
+</p>   
 
+<p aligh="center">
+<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Figure_12.png" 
+with="50%" height="50%"/> 
+</p>   
 
