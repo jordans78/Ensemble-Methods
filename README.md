@@ -59,15 +59,10 @@ with="50%" height="50%"/>
 
 
 <p aligh="center">
-<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Figure_2.png" 
+<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Figure_4.png" 
 with="50%" height="50%"/> 
 </p>   
 
-
-<p aligh="center">
-<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Figure_3.png" 
-with="50%" height="50%"/> 
-</p>   
 
 
 
