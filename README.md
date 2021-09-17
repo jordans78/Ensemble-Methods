@@ -37,6 +37,20 @@ correlated with the macroeconomic indicators so that, should they increase, the 
 to correlate with such an increase. However, this forecasting approach also has its shortcomings.
 
 
+Macroeconomic indicators (which are usually forecasted twice a year) are used when forecasting
+the revenues, but from the moment of their forecasting to the moment of realisation, a certain period
+passes which can have negative effects on the forecast accuracy. In fact, Buettner & Kauder (2009, p.7)
+point out that the circumstances that the forecasters face can significantly affect the accuracy of the
+forecasts, and this needs to be taken into consideration when evaluating accuracy. Also, timing of the
+frequency of forecasts can vary (for instance, in Austria the time is 3.5 months; in Italy the time is six
+months; and in the Netherlands the time is 9.5 months).
+To overcome the problems that occur when applying the previous approach, and with the aim of
+achieving more accurate forecasts, we look at some more flexible approaches that are based primarily
+on data-driven methods. The use of data-driven methods can be exceptionally useful, since such
+models provide for forecasting by using high-frequency data and are of particular benefit for cash
+management and early warning. The main objective of such models is making short-term inflow
+forecasts (daily, weekly or monthly) for a period not longer than two years (Haughton, 2008, p. 1).
+
 
 <p aligh="center">
 <img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Capture.PNG" 
