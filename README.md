@@ -1,11 +1,6 @@
 # Ensemble-Methods
 Customs Revenues Prediction Using Ensemble Methods (Statistical Modelling vs Machine Learning)
-
-
-<p aligh="center">
-<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Capture.PNG" 
-with="50%" height="50%"/> 
-</p>                                                                                                                                   
+                                                                                                                              
         
 Introduction
 
@@ -40,3 +35,12 @@ it is necessary to harmonise them with the business cycle in the economy, which 
 on revenue collection. The advantage of such forecasting is that the forecasted revenues are fully
 correlated with the macroeconomic indicators so that, should they increase, the revenues are expected
 to correlate with such an increase. However, this forecasting approach also has its shortcomings.
+
+
+
+<p aligh="center">
+<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Capture.PNG" 
+with="50%" height="50%"/> 
+</p>   
+
+
