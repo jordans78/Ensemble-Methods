@@ -53,7 +53,7 @@ forecasts (daily, weekly or monthly) for a period not longer than two years (Hau
 
 
 <p aligh="center">
-<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Capture.PNG" 
+<img src="https://github.com/jordans78/Ensemble-Methods/blob/main/Documentation/Figure_1.png" 
 with="50%" height="50%"/> 
 </p>   
 
